@@ -1,0 +1,15 @@
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\bin\Debug\net6.0\TreciaUzduotisMokytojai.exe
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\bin\Debug\net6.0\TreciaUzduotisMokytojai.deps.json
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\bin\Debug\net6.0\TreciaUzduotisMokytojai.runtimeconfig.json
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\bin\Debug\net6.0\TreciaUzduotisMokytojai.dll
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\bin\Debug\net6.0\TreciaUzduotisMokytojai.pdb
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.csproj.AssemblyReference.cache
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.AssemblyInfoInputs.cache
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.AssemblyInfo.cs
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.dll
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\refint\TreciaUzduotisMokytojai.dll
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.pdb
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\TreciaUzduotisMokytojai.genruntimeconfig.cache
+C:\Users\Paulius\Documents\VZ programavimas\C sharp\penkta pamoka klase\3 uzduotis Mokytojai\TreciaUzduotisMokytojai\obj\Debug\net6.0\ref\TreciaUzduotisMokytojai.dll
